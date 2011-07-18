@@ -1,3 +1,9 @@
+//wsmlby@gmail.com 2011 7 18 
+//Unofficial Release 
+
+
+//Code are All from google  
+//only the path modified
 
 
 var __scrpit_path="/static/js/";
